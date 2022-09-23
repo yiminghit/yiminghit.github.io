@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-[C] **Ming Yi** and Meng Wang, Tianqi Hong, Dongbo Zhao Bayesian High Rank Hankel Matrix Completion for
+[J1] **Ming Yi** and Meng Wang, Tianqi Hong, Dongbo Zhao Bayesian High Rank Hankel Matrix Completion for
 Nonlinear Synchrophasor Data Recovery ,"  IEEE Transactions on Power Systems, 2022
 
 
@@ -17,15 +17,15 @@ Nonlinear Synchrophasor Data Recovery ,"  IEEE Transactions on Power Systems, 20
 
 **Journal Publications**
 ------
-[J1] **Ming Yi**, Meng Wang, Evangelos, Farantatos,Tapas Barik, "Bayesian Robust Hankel Matrix Completion with
+[J2] **Ming Yi**, Meng Wang, Evangelos, Farantatos,Tapas Barik, "Bayesian Robust Hankel Matrix Completion with
 Uncertainty Modeling for Synchrophasor Data Recovery", ACM SIGENERGY Energy Informatics Review, (invited paper), 2022
 
-[J2] **Ming Yi** and Meng Wang,  "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling,"  IEEE Transactions on Power Systems, 2021
+[J3] **Ming Yi** and Meng Wang,  "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling,"  IEEE Transactions on Power Systems, 2021
 
-[J3] Wenting Li, **Ming Yi** and Meng Wang, Yishen Wang, Di Shi, Zhiwei Wang, "Real-time Energy Disaggregation
+[J4] Wenting Li, **Ming Yi** and Meng Wang, Yishen Wang, Di Shi, Zhiwei Wang, "Real-time Energy Disaggregation
 at Substations with Behind-the-Meter Solar Generation," IEEE Transactions on Power Systems, 2020. (The first two authors contributed equally and listed in an alphabetical order)
 
-[J4] Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li and Xinghu Yu, Character Segmentation-Based Coarse-Fine Approach for Automobile Dashboard Detection," IEEE Transactions on Industrial Informatics, 2019. (Student 1st author)
+[J5] Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li and Xinghu Yu, Character Segmentation-Based Coarse-Fine Approach for Automobile Dashboard Detection," IEEE Transactions on Industrial Informatics, 2019. (Student 1st author)
 
 
 **Conference Publications**
