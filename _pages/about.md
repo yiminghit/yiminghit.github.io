@@ -18,9 +18,6 @@ Research Interest
 4. Signal processing
 5. Power System Monitoring
 
-
-Getting started
-======
 My research is working on some of the basic questions in power systems: 
 
 The power systems are integrated with large penetrations of renewable generations. 
