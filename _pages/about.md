@@ -22,15 +22,19 @@ Research Interest
 Getting started
 ======
 My research is working on some of the basic questions in power systems: the power systems are integrated with large penetrations of renewable generations. 
+
 1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data?
 
 Because the disaggregation accuracy can vary significantly for different data due to the volatility of renewable generations, 
+
 2.Can algorithm provide uncertainty measure to measure the reliability of the disaggregation results? 
 
 The power systems also face missing data/bad data attack issues. However, there is no work to tell the operator how severe the missing/bad data the algorithms can handle, i.e.,  
+
 3.How to provide a confidence measure for synchrophasor data recovery and how to recover simultaneous and consecutive data corruptions? 
 
 There are many nonlinear dynamics in the power system. The low-rank properties may not hold in nonlinear dynamical systems. 
+
 4. How to recover the missing/bad data with nonlinear dynamics?
 
 
