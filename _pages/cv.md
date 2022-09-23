@@ -1,59 +1,54 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+**Research Interests**
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Machine Learning; High-Dimensional Data Analysis; Signal Process; Low Rank Method and Smart Grid
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+**Education**
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018 - 2022: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering. (GPA: 3.93/4.00)
+* 2016 - 2018: Harbin Insitute of Technology, Harbin, China. M.S. in Control Science and Engineering. (GPA: 88.95/100 Rank: 1/37)
+* 2012 - 2016: Harbin Enginnering University, Harbin, China. B.S. in Automation. (GPA: 92.03/100 Rank: 3/209)
 
-Publications
+**Research Experience**
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* Jan. 2022 - May, 2022:     Research Intern, Argonne National Laboratory.
+
+
+**Awards**
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Outstanding Master’s Thesis Award, Harbin Institute of Technology. 2018
+* Graduation with Honors (M.S.), Harbin Institute of Technology. 2018
+* National Scholarship (top 1%), Ministry of Education of China, 2017
+* National Scholarship (top 1%), Ministry of Education of China,
+
+**Invited Review & Program Committee Member**
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Journal:
+     * IEEE Transactions on Smart Grid,
+     * IEEE Transactions on Industrial Informatics,
+     * IEEE Transactions on Vehicular Technology,
+     * Measurement,
+     * Scientific Report
+
+
+**Mentoring Experience**
 ======
-* Currently signed in to 43 different slack teams
+* Guide Undergraduate Students in Building Data Recovery Software, Renssealaer Polytechnic Institute, 2019 - Current.
+
+**Tools and Skills**
+======
+MATLAB, C/C++, PYTHON, PYTORCH, TENSORFLOW, KERAS, AMPL
+
+
+
