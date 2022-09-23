@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ming Yi is a Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. He received his bachelor’s degree in Automation from Harbin Engineering Unicersity and master’s degree in Constrol Science and Engineering in 2016 and 2018, respectively. His research interests include Machine Learning, High-Dimensional Data Analysis, and Smart Grid.
+Ming Yi is a Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. He received his Bachelor’s degree in Automation from Harbin Engineering Unicersity and Master’s degree in Constrol Science and Engineering in 2016 and 2018, respectively. His research interests include Machine Learning, High-Dimensional Data Analysis, and Power System Monitoring.
 
 Research Interest
 ======
@@ -21,11 +21,16 @@ Research Interest
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research is working on some of the basic questions in power systems: the power systems are integrated with large penetrations of renewable generations. 
+1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data?
+
+Because the disaggregation accuracy can vary significantly for different data due to the volatility of renewable generations, 
+2.Can algorithm provide uncertainty measure to measure the reliability of the disaggregation results? 
+
+The power systems also face missing data/bad data attack issues. However, there is no work to tell the operator how severe the missing/bad data the algorithms can handle, i.e.,  
+3.How to provide a confidence measure for synchrophasor data recovery and how to recover simultaneous and consecutive data corruptions? 
+
+There are many nonlinear dynamics in the power system. The low-rank properties may not hold in nonlinear dynamical systems. 
+4. How to recover the missing/bad data with nonlinear dynamics?
 
 
