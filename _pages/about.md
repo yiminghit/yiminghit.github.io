@@ -21,7 +21,9 @@ Research Interest
 
 Getting started
 ======
-My research is working on some of the basic questions in power systems: the power systems are integrated with large penetrations of renewable generations. 
+My research is working on some of the basic questions in power systems: 
+
+The power systems are integrated with large penetrations of renewable generations. 
 
 1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data?
 
