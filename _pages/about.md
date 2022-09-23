@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ming Yi is a Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. He received his Bachelor’s degree in Automation from Harbin Engineering Unicersity and Master’s degree in Constrol Science and Engineering in 2016 and 2018, respectively. His research interests include Machine Learning, High-Dimensional Data Analysis, and Power System Monitoring.
+Ming Yi is a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. He received his Bachelor’s degree in Automation from Harbin Engineering Unicersity and Master’s degree in Constrol Science and Engineering in 2016 and 2018, respectively. His research interests include Machine Learning, High-Dimensional Data Analysis, and Power System Monitoring.
 
 Research Interest
 ======
