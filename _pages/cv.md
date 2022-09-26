@@ -11,7 +11,7 @@ redirect_from:
 
 **Research Interests**
 ======
-* Machine Learning; High-Dimensional Data Analysis; Statistical Learning, Low Rank Methods and Power System Monitoring.
+* Machine Learning; High-Dimensional Energy Data Analysis; Renewable Energy and Power System Monitoring.
 
 **Education**
 ======
