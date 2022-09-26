@@ -6,8 +6,7 @@ author_profile: true
 ---
 **Overview**
 ------
-My current research is working on some of the basic questions in power systems:  1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data? 2. Can algorithm provide uncertainty measure to measure the reliability of the disaggregation results?
-3. How to provide a confidence measure for synchrophasor data recovery and how to recover simultaneous and consecutive data corruptions?  4. How to recover the missing/bad data with nonlinear dynamics?
+My current research is working on some of the basic questions in power systems:  1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data? 2. Can algorithm provide uncertainty measure to measure the reliability of the disaggregation results? 3. How to provide a confidence measure for synchrophasor data recovery and how to recover simultaneous and consecutive data corruptions? 4. How to recover the missing/bad data with nonlinear dynamics?
 
 
 
