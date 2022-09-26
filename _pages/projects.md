@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+
 
 **Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
