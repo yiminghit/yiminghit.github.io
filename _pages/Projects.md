@@ -53,12 +53,12 @@ The existing energy disaggregation method cannot provide any reliability measure
 
 
 
-**Towards Robustness in Meta-Learning Against Test Phase Attacks**
+**Bayesian Robust Hankel Matrix Completion with Uncertainty Modeling for Synchrophasor Data Recovery**
 ------
-[MetaAdv:](https://github.com/wangren09/MetaAdv) We studied how adversarial robustness can be maintained in **few-shot learning** and proposed an **efficient adversarial few-shot learning framework**.
+Synchrophasor data suffer from quality issues like missing and bad data. Exploiting the low-rankness of the Hankel matrix of the synchrophasor data, we formulate the data recovery problem as a robust low-rank Hankel matrix completion problem and proposes a Bayesian data recovery method that estimates the posterior distribution of synchrophasor data from partial observations. In contrast to the deterministic approaches, our proposed Bayesian method provides an uncertainty index to evaluate the confidence of each estimation. To the best of our knowledge, this is the first method that provides confidence measure for synchrophasor data recovery. Numerical experiments on synthetic data and recorded synchrophasor data demonstrate that our method outperforms existing low-rank matrix completion methods.
 
 <div  align="center">
-<img src='/images/MetaAdv.png' width='475'>
+<img src='/images/RobustMatrixCompletion.png' width='475'>
 </div>
  
 **Backdoor Model Detection Under Data-Scarce Regime**
