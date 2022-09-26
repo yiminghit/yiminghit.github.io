@@ -1,11 +1,4 @@
 
----
-layout: archive
-title: "Projects"
-permalink: /projects/
-author_profile: true
----
-
 **Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
 Energy disaggregation at the substation level (EDS) estimates the energy consumption of each type of load from the aggregated measurements. At the substation level, most meters only measure at the net point so the obtained measurements are aggregated loads. It may be difficult to identify a set of pure measurements
