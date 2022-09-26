@@ -98,14 +98,17 @@ We introduced a **Multi-Trigger-Key framework** that associates each protected t
 
 
 
+
+
 **Smart Grid Robustness and Uncertain Optimization with High-Penetration of Renewable Energy**
 ------
 We proposed methods to **analyze the power grid robustness** and optimize the **economic dispatch** when considering highly stochastic renewable energy.
 
-<div  align="center">
-<img src='/images/smartg1.jpg' width='250'>
-<img src='/images/smartg2.jpg' width='200'>
-</div>
+```HTML
+<video width="320" height="240" controls>
+    <source src="/images/demo_OpenECA (3).mp4" type="video/mp4">
+</video>
+```
 
 
 
