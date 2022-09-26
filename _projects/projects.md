@@ -40,7 +40,7 @@ The existing energy disaggregation method cannot provide any reliability measure
   <img src='/images/Case4Fig3 (1).png' width='200'>
 </div>
 
-**The framework of proposed model**
+**The framework of proposed graphic model**
 <div  align="center">
 <img src='/images/figure1-1.png' width='500'>
 </div>
@@ -53,7 +53,7 @@ Synchrophasor data suffer from quality issues like missing and bad data. Exploit
 
 **Recovery results of proposed method (provide the uncertainty measure)**
 
-Additional Gaussian noise is added during time 5.6 to 6.6 secondsThe subfigures are (a) the observed data, (b) the estimated data, (c) the estimated data in one channel (d) the uncertainty index for the channel in (c).
+Additional Gaussian noise is added during time 5.6 to 6.6 seconds. The subfigures are (a) the observed data, (b) the estimated data, (c) the estimated data in one channel (d) the uncertainty index for the channel in (c).
 
 <div  align="center">
 <img src='/images/M2obR0.png' width='200'>
@@ -62,6 +62,7 @@ Additional Gaussian noise is added during time 5.6 to 6.6 secondsThe subfigures 
   <img src='/images/M2varianceR0.png' width='200'>
 </div>
 
+**The framework of proposed graphic model**
 
 <div  align="center">
 <img src='/images/RobustMatrixCompletion.png' width='675'>
