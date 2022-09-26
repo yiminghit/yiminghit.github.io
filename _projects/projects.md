@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 
 **Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
@@ -72,10 +79,21 @@ Additional Gaussian noise is added during time 5.6 to 6.6 seconds. The subfigure
 
 **Bayesian High-Rank Hankel Matrix Completion for Synchrophasor Data Recovery**
 ------
-We developed a **data privacy preserving framework** through quantization. We further developed an efficient data recovery method based on the nonconvex optimization and high-dimensional statistics such that the recovery error diminishes to zero. The method guarantees that any intruder accessing a small amount of data cannot reveal accurate information even with the knowledge of the quantization rule. Towards security enhancement, We developed a **distributed algorithm** such that multiple data owners could collect and process data separately and then collaboratively recover the data without sharing the raw information directly.
+The existing works exploit the Hankel low-rankness of the PMU data. However,many PMU data do not satisfy the low-rank property because of the nonlinear
+dynamics. Applying the approximate low-rankness to the PMU data recovery sometimes leads to degradation of the recovery performance. We develop a new Bayesian method to implicitly map the high-rank nonlinear data into the high dimensional space by the kernel trick. We propose to exploit the lifted low-rankness of the Hankel matrix of the data in the high dimensional space, although the rank of the data in the original low dimensional space is high. The proposed Bayesian framework infers the
+probabilistic distributions of the PMU data from the partial observations. Besides, the proposed method is robust to the bad data injection.
 
 
+**Recovery results of proposed high rank-based method and two low-rank method**
 
+Additional Gaussian noise is added during time 5.6 to 6.6 seconds. The subfigures are (a) the observed data, (b) the estimated data, (c) the estimated data in one channel (d) the uncertainty index for the channel in (c).
+
+<div  align="center">
+<img src='/images/M2obR0.png' width='200'>
+<img src='/images/M2estimationR0.png' width='200'>
+  <img src='/images/M2uncertaintyR0.png' width='200'>
+  <img src='/images/M2varianceR0.png' width='200'>
+</div>
 
 
 
