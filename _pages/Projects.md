@@ -5,19 +5,17 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Robust AI Guided by the Immune System**
+**Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
-[RAILS:](https://github.com/wangren09/RAILS) We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system. Here is a brief introduction to RAILS and a demo of RAILS [Intro and Demo:](https://drive.google.com/file/d/1vnOMEo4iOHjn7bU-WWwoh6nD8Ugtd7wD/view?usp=sharing).
+Energy disaggregation at the substation level (EDS) estimates the energy consumption of each type of load from the aggregated measurements. 
 
-**Comparions Between Simplified Immune System and RAILS Computational Workflow:**
-<div  align="center">
-<img src='/images/bio_comp_v5.png' width='600'>
-</div>
+We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system. Here is a brief introduction to RAILS and a demo of RAILS [Intro and Demo:](https://drive.google.com/file/d/1vnOMEo4iOHjn7bU-WWwoh6nD8Ugtd7wD/view?usp=sharing).
 
-**Performance and Architecture:**
+
+**Energy disaggregation at the substation level**
 <p align="center">
-  <img src="/images/RAILS_Arch.png" width="335" />
-  <img src="/images/radar_new.png" width="450" /> 
+  <img src="/images/BTM_illustration.png" width="335" />
+  <img src="/images/Dictionary.pdf" width="450" /> 
 </p>
 
 
