@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /personel/
 author_profile: true
 ---
@@ -16,9 +16,11 @@ Mojito by Jay Chow
     <source src="/images/mojito.mp4" type="video/mp4">
 </video>
 
+Fantasie Impromptu in C-sharp Minor Op.66 by Chopin
 
-
-
+<video width="320" height="240" controls>
+    <source src="/images/Chophin.mp4" type="video/mp4">
+</video>
 
 <!-- 
 **Twitter Sentiment Analysis with Recurrent Neural Networks**
