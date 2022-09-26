@@ -32,11 +32,14 @@ The existing energy disaggregation method cannot provide any reliability measure
 
 **Results and Visualization:**
 <div  align="center">
-<img src='/images/.png' width='335'>
-<img src='/images/ASK3.jpg' width='450'>
+<img src='/images/net.png' width='150'>
+<img src='/images/Case21Fig1 (1).png' width='150'>
+  <img src='/images/Case21Fig2 (1).png' width='150'>
+  <img src='/images/Case21Fig3 (1).png' width='150'>
+  <img src='/images/Case21Fig4 (1).png' width='150'>
 </div>
 
-**Robustify decision boundaries:**
+**The framework of proposed model**
 <div  align="center">
 <img src='/images/figure1.png' width='500'>
 </div>
