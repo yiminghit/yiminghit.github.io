@@ -26,9 +26,9 @@ of a certain type of load. The distribution operator may know all the loads conn
 
 
 
-**Robustness on Deep Non-Parametric Learning**
+**Bayesian Energy Disaggregation at Substations with Uncertainty Modeling**
 ------
-[ASK:](https://github.com/wangren09/ASK) We generated a novel **Adversarial Soft kNN Attack**, which has **superior attack efficiency and accuracy degradation** relative to previous kNN-based attacks. We developed an **Adversarial Soft kNN Defense** that can **improve the robustness** of both kNN-based classifiers and DNNs.
+The existing energy disaggregation method cannot provide any reliability measure of the disaggregation results, while the disaggregation accuracy can vary significantly for different data due to the volatility of loads such as the solar generation. We proposes a Bayesian-dictionary-learning-based approach to disaggregate the loads and provides an uncertainty measure of the returned estimation. Our approach learns the probability distributions of the load patterns and the decomposition coefficients from recorded data with partial labels at the offline stage. In real-time disaggregation of the obtained aggregate data, our approach computes the mean and covariance of the probability distribution of each load consumption, estimates the load using the mean, and computes the uncertainty index based on the covariance. 
 
 **Results and Visualization:**
 <div  align="center">
