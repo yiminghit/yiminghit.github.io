@@ -77,15 +77,15 @@ We developed a **data privacy preserving framework** through quantization. We fu
 
 **Streaming Synchrophasor Data Quality (SSDQ) Software for EPRI**
 ------
-I also mentor some undergraduate students to help my advisor to implement the developed data recovery algorithms on Matlab and OpenPDC/OpenECA platform. OpenPDC is an open source platform for streaming synchrophasor data, used by ISO New England, the Tennessee Valley Authority (TVA), Southern Company, Southwest Power
+I also mentor some undergraduate students to implement the developed data recovery algorithms on Matlab and OpenPDC/OpenECA platform. OpenPDC is an open source platform for streaming synchrophasor data, used by ISO New England, the Tennessee Valley Authority (TVA), Southern Company, Southwest Power
 Pool (SPP).
 
 
 **Demo of developed software on OpenECA and Matlab GUI Platform**
 <video width="320" height="240" controls>
     <source src="/images/demo_OpenECA (3).mp4" type="video/mp4">
+     <source src="/images/demo_SSDQ2 (2).mp4" type="video/mp4">
 </video>
-
 
 
 
