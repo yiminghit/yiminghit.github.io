@@ -35,9 +35,10 @@ redirect_from:
 **Teaching Experience**
 ======
 Teaching Assistant at RPI:
-ECSE-2500 Engineering Probability, Fall 2018
-ENGR-2350 Embedded Control, Fall 2018, Spring 2019
-ECSE-4510 Digital Control Systems, Spring 2019
+
+* ECSE-2500 Engineering Probability, Fall 2018
+* ENGR-2350 Embedded Control, Fall 2018, Spring 2019
+* ECSE-4510 Digital Control Systems, Spring 2019
 
 **Invited Review & Program Committee Member**
 ======
