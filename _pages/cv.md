@@ -33,6 +33,7 @@ redirect_from:
 * National Scholarship (top 1%), Ministry of Education of China,
 
 **Teaching Experience**
+======
 Teaching Assistant at RPI:
 ECSE-2500 Engineering Probability, Fall 2018
 ENGR-2350 Embedded Control, Fall 2018, Spring 2019
