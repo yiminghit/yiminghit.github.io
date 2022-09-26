@@ -80,8 +80,7 @@ Additional Gaussian noise is added during time 5.6 to 6.6 seconds. The subfigure
 
 **Bayesian High-Rank Hankel Matrix Completion for Synchrophasor Data Recovery**
 ------
-We developed a **data privacy preserving framework** through quantization. We further developed an efficient data recovery method based on the nonconvex optimization and high-dimensional statistics such that the recovery error diminishes to zero. The method guarantees that any intruder accessing a small amount of data cannot reveal accurate information even with the knowledge of the quantization rule. Towards security enhancement, We developed a **distributed algorithm** such that multiple data owners could collect and process data separately and then collaboratively recover the data without sharing the raw information directly.
-
+The existing works exploit the Hankel low-rankness of the PMU data. However,many PMU data do not satisfy the low-rank property because of the nonlinear dynamics. Applying the approximate low-rankness to the PMU data recovery sometimes leads to degradation of the recovery performance. We develop a new Bayesian method to implicitly map the high-rank nonlinear data into the high dimensional space by the kernel trick. We propose to exploit the lifted low-rankness of the Hankel matrix of the data in the high dimensional space, although the rank of the data in the original low dimensional space is high. 
 
 
 
@@ -96,10 +95,11 @@ Pool (SPP).
 **Demo of developed software on OpenECA and Matlab GUI Platform**
 <video width="320" height="240" controls>
     <source src="/images/demo_OpenECA (3).mp4" type="video/mp4">
-     <source src="/images/demo_SSDQ2 (2).mp4" type="video/mp4">
 </video>
 
-
+<video width="320" height="240" controls>
+     <source src="/images/demo_SSDQ2 (2).mp4" type="video/mp4">
+</video>
 
 
 <!-- 
