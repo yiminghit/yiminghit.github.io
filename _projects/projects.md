@@ -52,6 +52,9 @@ The existing energy disaggregation method cannot provide any reliability measure
 Synchrophasor data suffer from quality issues like missing and bad data. Exploiting the low-rankness of the Hankel matrix of the synchrophasor data, we formulate the data recovery problem as a robust low-rank Hankel matrix completion problem and proposes a Bayesian data recovery method that estimates the posterior distribution of synchrophasor data from partial observations. In contrast to the deterministic approaches, our proposed Bayesian method provides an uncertainty index to evaluate the confidence of each estimation. To the best of our knowledge, this is the first method that provides confidence measure for synchrophasor data recovery.
 
 **Recovery results of proposed method (provide the uncertainty measure)**
+
+Additional Gaussian noise is added during time 5.6 to 6.6 secondsThe subfigures are (a) the observed data, (b) the estimated data, (c) the estimated data in one channel (d) the uncertainty index for the channel in (c).
+
 <div  align="center">
 <img src='/images/M2obR0.png' width='200'>
 <img src='/images/M2estimationR0.png' width='200'>
