@@ -20,17 +20,15 @@ Email: yim3 (you can make the "at") rpi (dot) edu
 About Me
 ======
 
-Ming Yi is a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, advi. He received his Bachelor’s degree in Automation from Harbin Engineering Unicersity and Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology in 2016 and 2018, respectively. In Spring 2022, I interned with the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. 
+I am a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. I am fortunate to be advised by Prof. Meng Wang. I received Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology and Bachelor’s degree in Automation from Harbin Engineering Unicersity in 2018 and 2016, respectively. In Spring 2022, I interned with the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. My current research focuses on the theory and applications of Reinforcement Learning and Optimization.
 
 
-Research Interest
+Highlights
 ======
-1. Machine Learning
-2. Bayesian Inference
-3. Optimization
-4. Signal processing
-5. Power System Monitoring
-
+* [May. 2022]  Our paper entitled "Recent Results of Energy Disaggregation with Behind-the-Meter Solar Generation" was accepted in 11th Bulk Power Systems Dynamic and Control Symposium.
+* [Feb. 2022]  Our paper entitled "Bayesian Robust Hankel Matrix Completion with Uncertainty Modeling for Synchrophasor Data Recovery" was accepted in ACM SIGENERGY Energy Informatics Review.
+* [Jun. 2021] Our paper entitled "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling" was accepted in IEEE Transactions on Power Systems.
+* [Nov. 2022] Our paper entitled "Real-time Energy Disaggregation at Substations with Behind-the-Meter Solar Generation" was accepted in IEEE Transactions on Power Systems.
 
 Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-3YDb9ZxaACc7bd54-3.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=3YDb9ZxaACc7bd54'></script><sup>th</sup> vistor here.
 
