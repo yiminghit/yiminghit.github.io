@@ -10,8 +10,8 @@ redirect_from:
 
 Ph.D. Student<br/>
 Department of Electrical, Computer, and Systems Engineering<br/>
-
 Rensselaer Polytechnic Institute<br/>
+
 Office: Room 6308, Jonsson Engineering Center <br/>
 Address: 110 8th Street, Troy, New York, 12180<br/>
 Email: yim3@rpi.edu
