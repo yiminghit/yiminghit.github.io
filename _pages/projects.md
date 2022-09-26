@@ -82,7 +82,7 @@ Additional Gaussian noise is added during time 5.6 to 6.6 seconds. The subfigure
 ------
 The existing works exploit the Hankel low-rankness of the PMU data. However,many PMU data do not satisfy the low-rank property because of the nonlinear dynamics. Applying the approximate low-rankness to the PMU data recovery sometimes leads to degradation of the recovery performance. We develop a new Bayesian method to implicitly map the high-rank nonlinear data into the high dimensional space by the kernel trick. We propose to exploit the lifted low-rankness of the Hankel matrix of the data in the high dimensional space, although the rank of the data in the original low dimensional space is high. 
 
-**T**
+**Comparison of recovery results of proposed high-rank method with two low-rank methods**
 The subfigures are (a) the observed data, (b) the estimated data by our method, (c) the estimated data by Bayesian low-rank method (d) the estimated data by deterministic low-rank method.
 
 <div  align="center">
