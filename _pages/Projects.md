@@ -7,9 +7,8 @@ author_profile: true
 
 **Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
-Energy disaggregation at the substation level (EDS) estimates the energy consumption of each type of load from the aggregated measurements. 
+Energy disaggregation at the substation level (EDS) estimates the energy consumption of each type of load from the aggregated measurements. We for the first time addresses the so-called “partial labels” issue in energy disaggregation and develops a model-free EDS method to separate individual loads, including BTM solar, from the total energy consumption in real-time. 
 
-We proposed a novel deep defense framework, **Robust Adversarial Immune-inspired Learning System (RAILS)**, by emulating the key mechanisms of the mammalian immune system. Here is a brief introduction to RAILS and a demo of RAILS [Intro and Demo:](https://drive.google.com/file/d/1vnOMEo4iOHjn7bU-WWwoh6nD8Ugtd7wD/view?usp=sharing).
 
 
 **Energy disaggregation at the substation level**
