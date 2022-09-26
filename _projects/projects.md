@@ -49,24 +49,24 @@ The existing energy disaggregation method cannot provide any reliability measure
 
 **Bayesian Robust Hankel Matrix Completion with Uncertainty Modeling for Synchrophasor Data Recovery**
 ------
-Synchrophasor data suffer from quality issues like missing and bad data. Exploiting the low-rankness of the Hankel matrix of the synchrophasor data, we formulate the data recovery problem as a robust low-rank Hankel matrix completion problem and proposes a Bayesian data recovery method that estimates the posterior distribution of synchrophasor data from partial observations. In contrast to the deterministic approaches, our proposed Bayesian method provides an uncertainty index to evaluate the confidence of each estimation. To the best of our knowledge, this is the first method that provides confidence measure for synchrophasor data recovery. Numerical experiments on synthetic data and recorded synchrophasor data demonstrate that our method outperforms existing low-rank matrix completion methods.
+Synchrophasor data suffer from quality issues like missing and bad data. Exploiting the low-rankness of the Hankel matrix of the synchrophasor data, we formulate the data recovery problem as a robust low-rank Hankel matrix completion problem and proposes a Bayesian data recovery method that estimates the posterior distribution of synchrophasor data from partial observations. In contrast to the deterministic approaches, our proposed Bayesian method provides an uncertainty index to evaluate the confidence of each estimation. To the best of our knowledge, this is the first method that provides confidence measure for synchrophasor data recovery.
+
+**Recovery results of proposed method (provide the uncertainty measure)**
+<div  align="center">
+<img src='/images/M2obR0.png' width='200'>
+<img src='/images/M2estimationR0.png' width='200'>
+  <img src='/images/M2uncertaintyR0.png' width='200'>
+  <img src='/images/M2varianceR0.png' width='200'>
+</div>
+
 
 <div  align="center">
-<img src='/images/RobustMatrixCompletion.png' width='475'>
+<img src='/images/RobustMatrixCompletion.png' width='675'>
 </div>
  
-**Backdoor Model Detection Under Data-Scarce Regime**
-------
-[TrojanNet:](https://github.com/wangren09/TrojanNetDetector) We proposed **backdoor model detectors** that can effectively recognize **poisoned models** and reveal the **corresponding backdoor triggers** under the **data-limited** and **data-free** regimes.
-
-**Trojan (backdoor) attack, frameworks, and trigger detection:**
-<div  align="center">
-<img src='/images/DFTND_Framework.png' width='400'>
-<img src='/images/Trojan3.JPG' width='240'>
-</div>
 
 
-**Simultaneous Achievement of Data Privacy And Information Accuracy: Provable Privacy Protection in the Data Collection/Processing Phase**
+**Bayesian High-Rank Hankel Matrix Completion for Synchrophasor Data Recovery**
 ------
 We developed a **data privacy preserving framework** through quantization. We further developed an efficient data recovery method based on the nonconvex optimization and high-dimensional statistics such that the recovery error diminishes to zero. The method guarantees that any intruder accessing a small amount of data cannot reveal accurate information even with the knowledge of the quantization rule. Towards security enhancement, We developed a **distributed algorithm** such that multiple data owners could collect and process data separately and then collaboratively recover the data without sharing the raw information directly.
 
@@ -77,7 +77,7 @@ We developed a **data privacy preserving framework** through quantization. We fu
 
 **Streaming Synchrophasor Data Quality (SSDQ) Software for EPRI**
 ------
-I also mentor some undergraduate students to implement the developed data recovery algorithms on Matlab and OpenPDC/OpenECA platform. OpenPDC is an open source platform for streaming synchrophasor data, used by ISO New England, the Tennessee Valley Authority (TVA), Southern Company, Southwest Power
+I also mentor several undergraduate students to implement the our developed data recovery algorithms on Matlab and OpenPDC/OpenECA platform. OpenPDC is an open source platform for streaming synchrophasor data, used by ISO New England, the Tennessee Valley Authority (TVA), Southern Company, Southwest Power
 Pool (SPP).
 
 
