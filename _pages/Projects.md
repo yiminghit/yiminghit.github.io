@@ -32,14 +32,16 @@ The existing energy disaggregation method cannot provide any reliability measure
 
 **Results and Visualization:**
 <div  align="center">
-<img src='/images/ASK1.png' width='335'>
+<img src='/images/.png' width='335'>
 <img src='/images/ASK3.jpg' width='450'>
 </div>
 
 **Robustify decision boundaries:**
 <div  align="center">
-<img src='/images/ASK2.png' width='500'>
+<img src='/images/figure1.png' width='500'>
 </div>
+
+
 
 **Towards Robustness in Meta-Learning Against Test Phase Attacks**
 ------
