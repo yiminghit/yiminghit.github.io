@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 **Research Interests**
 ======
-* Machine Learning; High-Dimensional Data Analysis; Signal Process; Low Rank Method and Smart Grid
+* Machine Learning; High-Dimensional Data Analysis; Statistical Learning, Low Rank Methods and Power System Monitoring.
 
 **Education**
 ======
@@ -32,6 +32,12 @@ redirect_from:
 * National Scholarship (top 1%), Ministry of Education of China, 2017
 * National Scholarship (top 1%), Ministry of Education of China,
 
+**Teaching Experience**
+Teaching Assistant at RPI:
+ECSE-2500 Engineering Probability, Fall 2018
+ENGR-2350 Embedded Control, Fall 2018, Spring 2019
+ECSE-4510 Digital Control Systems, Spring 2019
+
 **Invited Review & Program Committee Member**
 ======
 * Journal:
@@ -44,7 +50,9 @@ redirect_from:
 
 **Mentoring Experience**
 ======
-* Guide Undergraduate Students in Building Data Recovery Software, Renssealaer Polytechnic Institute, 2019 - Current.
+* Mentor Undergraduate Students in Building Data Recovery Software, Renssealaer Polytechnic Institute, 2019 - Current.
+
+
 
 **Tools and Skills**
 ======
