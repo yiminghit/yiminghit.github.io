@@ -70,35 +70,18 @@ Synchrophasor data suffer from quality issues like missing and bad data. Exploit
 ------
 We developed a **data privacy preserving framework** through quantization. We further developed an efficient data recovery method based on the nonconvex optimization and high-dimensional statistics such that the recovery error diminishes to zero. The method guarantees that any intruder accessing a small amount of data cannot reveal accurate information even with the knowledge of the quantization rule. Towards security enhancement, We developed a **distributed algorithm** such that multiple data owners could collect and process data separately and then collaboratively recover the data without sharing the raw information directly.
 
-**Privacy protection:**
-<div  align="center">
-<img src='/images/Quantization_tensor.png' width='550'>
-</div>
-
-**Information extraction with prior knowledge:**
-<div  align="center">
-<img src='/images/DP2.png' width='330'>
-</div>
 
 
-**Multi-Trigger-Key: Privacy Protection in the Model Inference Phase**
+
+
+
+**Streaming Synchrophasor Data Quality (SSDQ) Software for EPRI**
 ------
-We introduced a **Multi-Trigger-Key framework** that associates each protected task with a specifically designed trigger-key. The true information can be revealed by adding the trigger-key if the user is authorized.
-
-**Multi-Trigger-Key Framework:**
-<div  align="center">
-<img src='/images/multi_trig_key.png' width='450'>
-</div>
+I also mentor some undergraduate students to help my advisor to implement the developed data recovery algorithms on Matlab and OpenPDC/OpenECA platform. OpenPDC is an open source platform for streaming synchrophasor data, used by ISO New England, the Tennessee Valley Authority (TVA), Southern Company, Southwest Power
+Pool (SPP).
 
 
-
-
-
-**Smart Grid Robustness and Uncertain Optimization with High-Penetration of Renewable Energy**
-------
-We proposed methods to **analyze the power grid robustness** and optimize the **economic dispatch** when considering highly stochastic renewable energy.
-
-
+**Demo of developed software on OpenECA and Matlab GUI Platform**
 <video width="320" height="240" controls>
     <source src="/images/demo_OpenECA (3).mp4" type="video/mp4">
 </video>
