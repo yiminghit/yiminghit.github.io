@@ -14,7 +14,7 @@ Energy disaggregation at the substation level (EDS) estimates the energy consump
 **Energy disaggregation at the substation level**
 <p align="center">
   <img src="/images/BTM_illustration.png" width="335" />
-  <img src="/images/PartialLabel_illust.pdf" width="450" /> 
+  <img src="/images/PartialLabel_illust.png" width="450" /> 
 </p>
 
 
