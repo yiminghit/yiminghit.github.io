@@ -39,6 +39,6 @@ There are many nonlinear dynamics in the power system. The low-rank properties m
 
 4. How to recover the missing/bad data with nonlinear dynamics?
 
-Welcome! You're the <div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-3YDb9ZxaACc7bd54-3.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=3YDb9ZxaACc7bd54'></script><sup>th</sup> vistor here.
+Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-3YDb9ZxaACc7bd54-3.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=3YDb9ZxaACc7bd54'></script><sup>th</sup> vistor here.
 
 
