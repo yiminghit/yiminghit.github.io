@@ -36,7 +36,6 @@ The existing energy disaggregation method cannot provide any reliability measure
 <img src='/images/Case21Fig1 (1).png' width='200'>
   <img src='/images/Case21Fig2 (1).png' width='200'>
   <img src='/images/Case21Fig3 (1).png' width='200'>
-  <img src='/images/Case21Fig4 (1).png' width='200'>
 </div>
 
 **Diaggregation results of proposed method (provide the uncertainty measure)**
@@ -45,12 +44,11 @@ The existing energy disaggregation method cannot provide any reliability measure
 <img src='/images/Case4Fig1 (1).png' width='200'>
   <img src='/images/Case4Fig2 (1).png' width='200'>
   <img src='/images/Case4Fig3 (1).png' width='200'>
-  <img src='/images/Case4Fig4 (1).png' width='200'>
 </div>
 
 **The framework of proposed model**
 <div  align="center">
-<img src='/images/figure1.png' width='500'>
+<img src='/images/figure1-1.png' width='500'>
 </div>
 
 
