@@ -16,8 +16,8 @@ of a certain type of load. The distribution operator may know all the loads conn
 
 **Energy disaggregation at the substation level and illustration of partial labels**
 <p align="center">
-  <img src="/images/BTM_illustration.png" width="335" />
-  <img src="/images/PartialLabel_illust.png" width="330" /> 
+  <img src="/images/BTM_illustration.png" width="300" />
+  <img src="/images/PartialLabel_illust.png" width="300" /> 
 </p>
 
 **Proposed mathmatical model**
