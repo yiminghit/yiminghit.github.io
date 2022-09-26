@@ -17,7 +17,8 @@ Address: 110 8th Street, Troy, New York, 12180<br/>
 Email: yim3 (you can make the "at") rpi (dot) edu
 
 
-
+About Me
+======
 
 Ming Yi is a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, advi. He received his Bachelor’s degree in Automation from Harbin Engineering Unicersity and Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology in 2016 and 2018, respectively. In Spring 2022, I interned with the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. 
 
