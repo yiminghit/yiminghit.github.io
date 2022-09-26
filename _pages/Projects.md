@@ -30,7 +30,7 @@ of a certain type of load. The distribution operator may know all the loads conn
 ------
 The existing energy disaggregation method cannot provide any reliability measure of the disaggregation results, while the disaggregation accuracy can vary significantly for different data due to the volatility of loads such as the solar generation. We proposes a Bayesian-dictionary-learning-based approach to disaggregate the loads and provides an uncertainty measure of the returned estimation. Our approach learns the probability distributions of the load patterns and the decomposition coefficients from recorded data with partial labels at the offline stage. In real-time disaggregation of the obtained aggregate data, our approach computes the mean and covariance of the probability distribution of each load consumption, estimates the load using the mean, and computes the uncertainty index based on the covariance. 
 
-**Results and Visualization:**
+**Diaggregation results of existing method (without the uncertainty measure):**
 <div  align="center">
 <img src='/images/net.png' width='200'>
 <img src='/images/Case21Fig1 (1).png' width='200'>
@@ -39,7 +39,7 @@ The existing energy disaggregation method cannot provide any reliability measure
   <img src='/images/Case21Fig4 (1).png' width='200'>
 </div>
 
-**Results and Visualization:**
+**Diaggregation results of proposed method (provide the uncertainty measure)**
 <div  align="center">
 <img src='/images/net.png' width='200'>
 <img src='/images/Case4Fig1 (1).png' width='200'>
