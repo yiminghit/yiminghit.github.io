@@ -17,7 +17,7 @@ redirect_from:
 ======
 * 2018 - 2022: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering. (GPA: 3.93/4.00)
 * 2016 - 2018: Harbin Insitute of Technology, Harbin, China. M.S. in Control Science and Engineering. (GPA: 88.95/100 Rank: 1/37)
-* 2012 - 2016: Harbin Enginnering University, Harbin, China. B.S. in Automation. (GPA: 92.03/100 Rank: 3/209)
+* 2012 - 2016: Harbin Engineering University, Harbin, China. B.S. in Automation. (GPA: 92.03/100 Rank: 3/209)
 
 **Research Experience**
 ======
