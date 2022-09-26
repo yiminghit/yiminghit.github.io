@@ -7,7 +7,8 @@ author_profile: true
 
 **Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
-Energy disaggregation at the substation level (EDS) estimates the energy consumption of each type of load from the aggregated measurements. We for the first time addresses the so-called “partial labels” issue in energy disaggregation and develops a model-free EDS method to separate individual loads, including BTM solar, from the total energy consumption in real-time. 
+Energy disaggregation at the substation level (EDS) estimates the energy consumption of each type of load from the aggregated measurements. At the substation level, most meters only measure at the net point so the obtained measurements are aggregated loads. It may be difficult to identify a set of pure measurements
+of a certain type of load. The distribution operator may know all the loads connected to a substation, it may not know whether a particular type of load is consuming energy or not within a given time interval. Thus, each aggregate measurement is the total consumption of multiple types of loads, and the types that exist in this measurement are not fully known. We call it “partially labeled aggregate data.” We for the first time addresses the so-called “partial labels” issue in energy disaggregation and develops a model-free EDS method to separate individual loads, including BTM solar, from the total energy consumption in real-time. 
 
 
 
