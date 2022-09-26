@@ -2,7 +2,7 @@
 
 **Hobbies**
 ------
-I started playing the piano from the age of ten, but not professionally. It has been a 18 years hobbies for me. It is a good way for me to relax.
+I started playing the piano from the age of ten, but not professionally. It has been a 18 years hobbies for me. It is a good way for me to relax in my spare time.
 
 Mojito by Jay Chow
 
