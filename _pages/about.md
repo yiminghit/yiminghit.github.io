@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Ming Yi is a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. He received his Bachelor’s degree in Automation from Harbin Engineering Unicersity and Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology in 2016 and 2018, respectively. His research interests include Machine Learning, High-Dimensional Data Analysis, and Power System Monitoring.
+Ph.D. Student<br/>
+Department of Electrical, Computer, and Systems Engineering<br/>
+
+Rensselaer Polytechnic Institute<br/>
+Office: Room 6308, Jonsson Engineering Center <br/>
+Address: 110 8th Street, Troy, New York, 12180<br/>
+Email: yim3 (you can make the "at") rpi (dot) edu
+
+
+
+
+Ming Yi is a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, advi. He received his Bachelor’s degree in Automation from Harbin Engineering Unicersity and Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology in 2016 and 2018, respectively. In Spring 2022, I interned with the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. 
+
 
 Research Interest
 ======
@@ -18,26 +30,6 @@ Research Interest
 4. Signal processing
 5. Power System Monitoring
 
-My current research is working on some of the basic questions in power systems: 
-
-The power systems are integrated with large penetrations of renewable generations. 
-
-1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data?
-
-
-Because the disaggregation accuracy can vary significantly for different data due to the volatility of renewable generations, 
-
-2. Can algorithm provide uncertainty measure to measure the reliability of the disaggregation results?
-
-
-The power systems also face missing data/bad data attack issues. However, there is no work to tell the operator how severe the missing/bad data the algorithms can handle, i.e.,  
-
-3. How to provide a confidence measure for synchrophasor data recovery and how to recover simultaneous and consecutive data corruptions? 
-
-
-There are many nonlinear dynamics in the power system. The low-rank properties may not hold in nonlinear dynamical systems. 
-
-4. How to recover the missing/bad data with nonlinear dynamics?
 
 Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-3YDb9ZxaACc7bd54-3.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=3YDb9ZxaACc7bd54'></script><sup>th</sup> vistor here.
 
