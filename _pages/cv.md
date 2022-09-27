@@ -30,7 +30,7 @@ redirect_from:
 * Outstanding Master’s Thesis Award, Harbin Institute of Technology. 2018
 * Graduation with Honors (M.S.), Harbin Institute of Technology. 2018
 * National Scholarship (top 1%), Ministry of Education of China, 2017
-* National Scholarship (top 1%), Ministry of Education of China,
+* National Scholarship (top 1%), Ministry of Education of China, 2015
 
 **Teaching Experience**
 ======
