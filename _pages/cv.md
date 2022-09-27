@@ -40,7 +40,7 @@ Teaching Assistant at RPI:
 * ENGR-2350 Embedded Control, Fall 2018, Spring 2019
 * ECSE-4510 Digital Control Systems, Spring 2019
 
-**Invited Review & Program Committee Member**
+**Invited Review**
 ======
 * Journal:
      * IEEE Transactions on Smart Grid,
