@@ -20,7 +20,7 @@ Email: yim3@rpi.edu
 About Me
 ======
 
-I am a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. I am fortunate to be advised by Prof. Meng Wang. I received Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology and Bachelor’s degree in Automation from Harbin Engineering Unicersity in 2018 and 2016, respectively. In Spring 2022, I interned at the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. My current research focuses on the machine Learning, high-dimensional energy data analytics, renewable energy and power system monitoring.
+I am a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, where I am fortunate to be advised by Prof. Meng Wang. In Spring 2022, I interned at the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. I received Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology and Bachelor’s degree in Automation from Harbin Engineering Unicersity in 2018 and 2016, respectively. My current research focuses on the machine Learning, high-dimensional energy data analytics, renewable energy and power system monitoring. 
 
 
 Highlights
