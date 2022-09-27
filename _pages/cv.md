@@ -50,12 +50,6 @@ Teaching Assistant at RPI:
      * Scientific Report.
 
 
-**Mentoring Experience**
-======
-* Mentor Undergraduate Students in Building Data Recovery Software, Renssealaer Polytechnic Institute, 2019 - Current.
-
-
-
 **Tools and Skills**
 ======
 MATLAB, C/C++, PYTHON, PYTORCH, TENSORFLOW, KERAS, AMPL
