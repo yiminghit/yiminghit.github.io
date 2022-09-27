@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-[J1] **Ming Yi** and Meng Wang, Tianqi Hong, Dongbo Zhao Bayesian High Rank Hankel Matrix Completion for
+[J1] **Ming Yi** and Meng Wang, Tianqi Hong, Dongbo Zhao, "Bayesian High Rank Hankel Matrix Completion for
 Nonlinear Synchrophasor Data Recovery ,"  IEEE Transactions on Power Systems, 2022
 
 
