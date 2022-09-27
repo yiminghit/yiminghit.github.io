@@ -47,7 +47,7 @@ Teaching Assistant at RPI:
      * IEEE Transactions on Industrial Informatics,
      * IEEE Transactions on Vehicular Technology,
      * Measurement,
-     * Scientific Report
+     * Scientific Report.
 
 
 **Mentoring Experience**
