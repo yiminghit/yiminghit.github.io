@@ -43,10 +43,10 @@ of automobile dashboard," Proc. of the 43rd Annual Conference of the IEEE Indust
 **Patents**
 ------
 
-[P1] Huijun, Gao, **Ming Yi**, Jinyong Yu, and Fengyu Guo. "Adaptive Auto Meter Detection Method based on
+[P1] Huijun, Gao, **Ming Yi**, Jinyong Yu and Fengyu Guo. "Adaptive Auto Meter Detection Method based on
 Character Segmentation and Cascade Classifier," U.S. Patent Application 16/144,845, granted Dec. 2020.
 
-[P2] Huijun, Gao, **Ming Yi**, Jinyong Yu, and Fengyu Guo. "Self-adaptive automobile instrument detection method
+[P2] Huijun, Gao, **Ming Yi**, Jinyong Yu and Fengyu Guo. "Self-adaptive automobile instrument detection method
 based on character segmentation cascade two classifiers." Chinese Patent CN201710891277, granted Sept. 2020
 
 
