@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-[J1] **Ming Yi** and Meng Wang, Tianqi Hong, Dongbo Zhao, "Bayesian High Rank Hankel Matrix Completion for
+[J1] **Ming Yi**, Meng Wang, Tianqi Hong and Dongbo Zhao, "Bayesian High Rank Hankel Matrix Completion for
 Nonlinear Synchrophasor Data Recovery,"  IEEE Transactions on Power Systems, 2022
 
 
@@ -22,7 +22,7 @@ Uncertainty Modeling for Synchrophasor Data Recovery," ACM SIGENERGY Energy Info
 
 [J3] **Ming Yi** and Meng Wang,  "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling,"  IEEE Transactions on Power Systems, 2021
 
-[J4] Wenting Li, **Ming Yi** and Meng Wang, Yishen Wang, Di Shi, Zhiwei Wang, "Real-time Energy Disaggregation
+[J4] Wenting Li, **Ming Yi**, Meng Wang, Yishen Wang, Di Shi and Zhiwei Wang, "Real-time Energy Disaggregation
 at Substations with Behind-the-Meter Solar Generation," IEEE Transactions on Power Systems, 2020. (The first two authors contributed equally and listed in an alphabetical order)
 
 [J5] Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li and Xinghu Yu, Character Segmentation-Based Coarse-Fine Approach for Automobile Dashboard Detection," IEEE Transactions on Industrial Informatics, 2019. (Student 1st author)
