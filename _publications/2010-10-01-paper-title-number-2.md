@@ -17,7 +17,7 @@ Nonlinear Synchrophasor Data Recovery,"  IEEE Transactions on Power Systems, 202
 
 **Journal Publications**
 ------
-[J2] **Ming Yi**, Meng Wang, Evangelos, Farantatos,Tapas Barik, "Bayesian Robust Hankel Matrix Completion with
+[J2] **Ming Yi**, Meng Wang, Evangelos, Farantatos and Tapas Barik, "Bayesian Robust Hankel Matrix Completion with
 Uncertainty Modeling for Synchrophasor Data Recovery," ACM SIGENERGY Energy Informatics Review, (invited paper), 2022
 
 [J3] **Ming Yi** and Meng Wang,  "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling,"  IEEE Transactions on Power Systems, 2021
