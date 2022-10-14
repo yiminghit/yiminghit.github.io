@@ -25,6 +25,7 @@ I am a 5th year Ph.D. student from the Department of Electrical, Computer, and S
 
 Highlights
 ======
+* [Oct. 2022]  I am honored to receive the Founders Award of Excellence (top 1% of student population) from Rensselaer Polytechnic Institute.
 * [May 2022]  Our paper entitled "Recent Results of Energy Disaggregation with Behind-the-Meter Solar Generation" was accepted in **11th Bulk Power Systems Dynamic and Control Symposium**.
 * [Feb. 2022]  Our paper entitled "Bayesian Robust Hankel Matrix Completion with Uncertainty Modeling for Synchrophasor Data Recovery" was accepted in **ACM SIGENERGY Energy Informatics Review**.
 * [Jun. 2021] Our paper entitled "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling" was accepted in **IEEE Transactions on Power Systems**.
