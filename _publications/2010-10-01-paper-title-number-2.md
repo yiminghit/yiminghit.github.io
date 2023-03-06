@@ -5,18 +5,14 @@ title: "Publications"
 author_profile: true
 ---
 
-**Under review**
-
-
-
-[J1] **Ming Yi**, Meng Wang, Tianqi Hong and Dongbo Zhao, "Bayesian High Rank Hankel Matrix Completion for
-Nonlinear Synchrophasor Data Recovery,"  IEEE Transactions on Power Systems, 2022
-
 
 
 
 **Journal Publications**
 ------
+[J1] **Ming Yi**, Meng Wang, Tianqi Hong and Dongbo Zhao, "Bayesian High Rank Hankel Matrix Completion for
+Nonlinear Synchrophasor Data Recovery,"  IEEE Transactions on Power Systems, 2023
+
 [J2] **Ming Yi**, Meng Wang, Evangelos, Farantatos and Tapas Barik, "Bayesian Robust Hankel Matrix Completion with
 Uncertainty Modeling for Synchrophasor Data Recovery," ACM SIGENERGY Energy Informatics Review, (invited paper), 2022
 
