@@ -25,7 +25,7 @@ I am a postdoc fellow at the Umich, where I am focusing on the energy justice an
 
 Highlights
 ======
-* [April 2022]  I am honored to receive the Charles M. Close ’62 Doctoral Prize from Rensselaer Polytechnic Institute. This prize is awarded to a doctoral candidate who has done outstanding work as a researcher and teacher, and who shows promise of a distinguished academic or research career.
+* [April 2022]  I am honored to receive the Charles M. Close ’62 Doctoral Prize from ECSE department of Rensselaer Polytechnic Institute. This prize is awarded to a doctoral candidate who has done outstanding work as a researcher and teacher, and who shows promise of a distinguished academic or research career.
 * [Mar. 2023] Our paper entitled "Bayesian High Rank Hankel Matrix Completion for Nonlinear Synchrophasor Data Recovery" was accepted in **IEEE Transactions on Power Systems**.
 * [Oct. 2022]  I am honored to receive the Founders Award of Excellence (top 1% of student population) from Rensselaer Polytechnic Institute.
 * [May 2022]  Our paper entitled "Recent Results of Energy Disaggregation with Behind-the-Meter Solar Generation" was accepted in **11th Bulk Power Systems Dynamic and Control Symposium**.
