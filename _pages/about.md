@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Student<br/>
-Department of Electrical, Computer, and Systems Engineering<br/>
-Rensselaer Polytechnic Institute<br/>
+Postdoc Fellow<br/>
+School for Environment and Sustainability<br/>
+University of Michigan, Ann Arbor<br/>
 
-Office: Room 6308, Jonsson Engineering Center <br/>
-Address: 110 8th Street, Troy, New York, 12180<br/>
-Email: yim3@rpi.edu
+Office: Room CSS, Dana Building <br/>
+Address: 440 Church St, Ann Arbor, MI 48109<br/>
+Email: yimi@umich.edu
 
 
 About Me
 ======
 
-I am a 5th year Ph.D. student from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, where I am fortunate to be advised by Prof. Meng Wang. In Spring 2022, I interned at the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. I received Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology and Bachelor’s degree in Automation from Harbin Engineering Unicersity in 2018 and 2016, respectively. My current research focuses on the machine Learning, high-dimensional energy data analytics, renewable energy and power system monitoring. 
+I am a postdoc fellow at the Umich, where I am fortunate to be advised by Prof. Parth Vaishnav. I also co-advisord with Prof. Michael Craig, Prof. Johanna Mathieu and Prof. Carina Gronlund. I obtained my Ph.D. degree on 2022 from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, where I am fortunate to be advised by Prof. Meng Wang. In Spring 2022, I interned at the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. I received Master’s degree in Constrol Science and Engineering from Harbin Institute of Technology and Bachelor’s degree in Automation from Harbin Engineering Unicersity in 2018 and 2016, respectively. My current research focuses on the machine Learning, high-dimensional energy data analytics, renewable energy and power system monitoring. 
 
 
 Highlights
 ======
+* [April 2022]  I am honored to receive the Charles M. Close ’62 Doctoral Prize from Rensselaer Polytechnic Institute. This prize is awarded to a doctoral candidate who has done outstanding work as a researcher and teacher, and who shows promise of a distinguished academic or research career.
 * [Mar. 2023] Our paper entitled "Bayesian High Rank Hankel Matrix Completion for Nonlinear Synchrophasor Data Recovery" was accepted in **IEEE Transactions on Power Systems**.
 * [Oct. 2022]  I am honored to receive the Founders Award of Excellence (top 1% of student population) from Rensselaer Polytechnic Institute.
 * [May 2022]  Our paper entitled "Recent Results of Energy Disaggregation with Behind-the-Meter Solar Generation" was accepted in **11th Bulk Power Systems Dynamic and Control Symposium**.
