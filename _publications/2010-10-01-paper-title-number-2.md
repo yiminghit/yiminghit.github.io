@@ -10,18 +10,30 @@ author_profile: true
 
 **Journal Publications**
 ------
-[J1] **Ming Yi**, Meng Wang, Tianqi Hong and Dongbo Zhao, "Bayesian High Rank Hankel Matrix Completion for
+[J1] Ming Yi, Saud Alghumayjan, and Bolun Xu, "Perturbed Decision-Focused Learning for Strategic Energy Storage," IEEE Transactions on Smart Grid, (second-round review), 2024.
+
+[J2] Shuhaib Nawawi, Ming Yi, Michael Craig, Thomas Detjeen, and Parth Vaishnav, "Cross-sectoral Trade-offs in a Changing Climate: Surrogate Models to Balance Home Energy Bills, Occupant Comfort, and Power System Externalities," Joule, (submitted), 2024. 
+
+[J3] Saud Alghumayjan, Jiajun Han, Ningkun Zheng, Ming Yi, and Bolun Xu, "Energy Storage Arbitrage in Two-settlement Markets: A Transformer-Based Approach," Electric Power Systems Research, 2024. 
+
+[J4] Meixuan Li, K. Tse Chi, and Ming Yi, "The Impact of Inverter-Based Resources (IBRs) on Cascading Failures in Power Systems," IEEE Transactions on Power Systems, 2023.
+
+[J5] Meixuan Li, K. Tse Chi, and Ming Yi, "Steady-State Cascading Failure Model With Voltage Instability Event Detection," IEEE Transactions on Circuits and Systems I: Regular Papers, 2023.
+
+[J6] Meixuan Li, K. Tse Chi, and Ming Yi, "Interdependence Among Voltage-Unstable Buses During Cascading Failure in Power Systems," IEEE Transactions on Circuits and Systems I: Regular Papers, 2023.
+
+[J7] **Ming Yi**, Meng Wang, Tianqi Hong and Dongbo Zhao, "Bayesian High Rank Hankel Matrix Completion for
 Nonlinear Synchrophasor Data Recovery,"  IEEE Transactions on Power Systems, 2023
 
-[J2] **Ming Yi**, Meng Wang, Evangelos, Farantatos and Tapas Barik, "Bayesian Robust Hankel Matrix Completion with
+[J8] **Ming Yi**, Meng Wang, Evangelos, Farantatos and Tapas Barik, "Bayesian Robust Hankel Matrix Completion with
 Uncertainty Modeling for Synchrophasor Data Recovery," ACM SIGENERGY Energy Informatics Review, (invited paper), 2022
 
-[J3] **Ming Yi** and Meng Wang,  "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling,"  IEEE Transactions on Power Systems, 2021
+[J9] **Ming Yi** and Meng Wang,  "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling,"  IEEE Transactions on Power Systems, 2021
 
-[J4] Wenting Li, **Ming Yi**, Meng Wang, Yishen Wang, Di Shi and Zhiwei Wang, "Real-time Energy Disaggregation
+[J10] Wenting Li, **Ming Yi**, Meng Wang, Yishen Wang, Di Shi and Zhiwei Wang, "Real-time Energy Disaggregation
 at Substations with Behind-the-Meter Solar Generation," IEEE Transactions on Power Systems, 2020. (The first two authors contributed equally and listed in an alphabetical order)
 
-[J5] Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li and Xinghu Yu, Character Segmentation-Based Coarse-Fine Approach for Automobile Dashboard Detection," IEEE Transactions on Industrial Informatics, 2019. (Student 1st author)
+[J11] Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li and Xinghu Yu, Character Segmentation-Based Coarse-Fine Approach for Automobile Dashboard Detection," IEEE Transactions on Industrial Informatics, 2019. (Student 1st author)
 
 
 **Conference Publications**
