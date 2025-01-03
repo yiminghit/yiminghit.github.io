@@ -13,10 +13,10 @@ redirect_from:
 ======
 * Machine Learning; High-Dimensional Energy Data Analytics; Energy Storage; Renewable Energy and Power System Monitoring.
 
-* **Professional Experience**
+**Professional Experience**
 ======
-* 2023. July - 2025. June: Data Science Institute, Columbia University, NY, USA. Postdoctoral Research Scientist. 
-* 2023. April - 2023 June: School for Environment and Sustainability, University of Michigan, Ann Arbor, USA. Postdoctoral Fellow
+* July 2023  - June 2025: Data Science Institute, Columbia University, NY, USA. Postdoctoral Research Scientist. 
+* April 2023. - June 2023 : School for Environment and Sustainability, University of Michigan, Ann Arbor, USA. Postdoctoral Fellow
 
 **Education**
 ======
@@ -27,7 +27,7 @@ redirect_from:
 **Research Experience**
 ======
 
-* Jan. 2022 - May, 2022:     Research Intern, Argonne National Laboratory.
+* Jan. 2022 - May. 2022:     Research Intern, Argonne National Laboratory.
 
 
 **Awards**
