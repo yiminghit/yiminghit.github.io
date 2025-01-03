@@ -26,7 +26,8 @@ I am a postdoctoral research scientist  at Columbia University, where I am focus
 **<span style="color: red;">I am on the academic job market this fall! Feel free to reach out if you’re interested in my research or have relevant opportunities.</span>**
 
 Please see my CV if you want to know more about me.
-[[CV]](/files/Ming_Yi_CV_V2.pdf) [[Research Statement]](/files/RS_Ming.pdf) [[Teaching Statement]](/files/Teaching_Ming.pdf)
+
+**[[CV]](/files/Ming_Yi_CV_V2.pdf) [[Research Statement]](/files/RS_Ming.pdf) [[Teaching Statement]](/files/Teaching_Ming.pdf)**
 
 Highlights
 ======
