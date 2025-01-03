@@ -5,6 +5,17 @@ title: "Publications"
 author_profile: true
 ---
 
+**Working Papers**
+
+[W1] Ming Yi, Yiqian Wu, James Anderson, and Gil Zussman, "Stealthy Cyber-Attack for Strategic Behind-the-Meter Energy Storage," under preparation, 2024.
+
+[W2] Ming Yi and Bolun Xu, "A Dual-Based PID Controller for Job Scheduling in Data Centers with Uncertain Demand," under preparation, 2024.
+
+[W3] Ming Yi, Yiqian Wu, James Anderson, and Bolun Xu, "Decision-Focused Bidding Design for Energy Storage Arbitrage," under preparation, 2024.
+
+[W4] Ming Yi, Shuhaib Nawawi, and Parth Vaishnav, "How do electrification and climate change affect the distribution of energy burdens: an analysis of 10,000 buildings in 30 US cities," under preparation, 2024. Poster presentation delivered at the American Geophysical Union (AGU) Fall Meeting 2024.
+
+[W5] Yiqian Wu, Ming Yi, Bolun Xu, and James Anderson, "Risk-Averse Energy Storage Arbitrage," under preparation, 2024.
 
 
 
