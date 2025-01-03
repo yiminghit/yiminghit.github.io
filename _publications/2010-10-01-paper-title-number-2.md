@@ -12,7 +12,7 @@ author_profile: true
 ------
 [J1] Ming Yi, Saud Alghumayjan, and Bolun Xu, "Perturbed Decision-Focused Learning for Strategic Energy Storage," IEEE Transactions on Smart Grid, (second-round review), 2024.
 
-[J2] Shuhaib Nawawi, Ming Yi, Michael Craig, Thomas Detjeen, and Parth Vaishnav, "Cross-sectoral Trade-offs in a Changing Climate: Surrogate Models to Balance Home Energy Bills, Occupant Comfort, and Power System Externalities," Joule, (submitted), 2024. 
+[J2] Shuhaib Nawawi, Ming Yi, Michael Craig, Thomas Detjeen, and Parth Vaishnav, "Cross-sectoral Trade-offs in a Changing Climate: Surrogate Models to Balance Home Energy Bills, Occupant Comfort, and Power System Externalities," submitted to Joule, 2024. 
 
 [J3] Saud Alghumayjan, Jiajun Han, Ningkun Zheng, Ming Yi, and Bolun Xu, "Energy Storage Arbitrage in Two-settlement Markets: A Transformer-Based Approach," Electric Power Systems Research, 2024. 
 
