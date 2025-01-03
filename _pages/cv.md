@@ -15,8 +15,8 @@ redirect_from:
 
 **Professional Experience**
 ======
-* July 2023  - June 2025: Data Science Institute, Columbia University, NY, USA. Postdoctoral Research Scientist. 
-* April 2023. - June 2023 : School for Environment and Sustainability, University of Michigan, Ann Arbor, USA. Postdoctoral Fellow
+* July 2023  - Present: Data Science Institute, Columbia University, NY, USA. Postdoctoral Research Scientist. 
+* April 2023 - June 2023: School for Environment and Sustainability, University of Michigan, Ann Arbor, USA. Postdoctoral Fellow
 
 **Education**
 ======
