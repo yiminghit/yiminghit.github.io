@@ -35,9 +35,9 @@ Alice
 
 ### Alice's Photos
 
-![Alice enjoying her day](/images/Alice1.jpg)
+<img src="/images/Alice1.jpg" alt="Alice enjoying her day" width="300" height="200">
 
-![Alice being playful](/images/Alice2.jpg)
+<img src="/images/Alice2.JPG" alt="Alice being playful" width="300" height="200">
 
 
 
