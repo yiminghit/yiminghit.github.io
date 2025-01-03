@@ -11,7 +11,12 @@ redirect_from:
 
 **Research Interests**
 ======
-* Machine Learning; High-Dimensional Energy Data Analytics; Renewable Energy and Power System Monitoring.
+* Machine Learning; High-Dimensional Energy Data Analytics; Energy Storage; Renewable Energy and Power System Monitoring.
+
+* **Professional Experience**
+======
+* 2023. July - 2025. June: Data Science Institute, Columbia University, NY, USA. Postdoctoral Research Scientist. 
+* 2023. April - 2023 June: School for Environment and Sustainability, University of Michigan, Ann Arbor, USA. Postdoctoral Fellow
 
 **Education**
 ======
@@ -27,8 +32,11 @@ redirect_from:
 
 **Awards**
 ======
-* Outstanding Master’s Thesis Award, Harbin Institute of Technology. 2018
-* Graduation with Honors (M.S.), Harbin Institute of Technology. 2018
+* DSI Postdoctoral Fellowship,  Columbia University. 2023
+* Charles M. Close '62 Doctoral Prize, Rensselaer Polytechnic Institute, 2023
+* Founders Award of Excellence (top 1\%), Rensselaer Polytechnic Institute, 2022
+* Outstanding Master’s Thesis Award, Harbin Institute of Technology, 2018
+* Graduation with Honors (M.S.), Harbin Institute of Technology, 2018
 * National Scholarship (top 1%), Ministry of Education of China, 2017
 * National Scholarship (top 1%), Ministry of Education of China, 2015
 
@@ -44,8 +52,13 @@ Teaching Assistant at RPI:
 ======
 * Journal:
      * IEEE Transactions on Smart Grid,
+     * IEEE Transactions on Power System
+     * IEEE Transactions on Energy Markets, Policy and Regulation,
+     * IEEE Transactions on Power Delivery
      * IEEE Transactions on Industrial Informatics,
      * IEEE Transactions on Vehicular Technology,
+     * IEEE Power Engineering Letters,
+     * Journal of Modern Power Systems and Clean Energy
      * Measurement,
      * Scientific Report.
 
