@@ -37,8 +37,7 @@ Alice
 
 <img src="/images/Alice1.jpg" alt="Alice enjoying her day" width="300" height="200">
 
-<img src="/images/Alice3.jpg" alt="Alice being playful" width="300" height="200">
-
+<img src="/images/Alice3.JPG" alt="Alice being playful" width="300" height="200">
 <img src="/images/Alice4.JPG" alt="Alice being playful" width="300" height="200">
 <img src="/images/Alice5.JPG" alt="Alice being playful" width="300" height="200">
 
