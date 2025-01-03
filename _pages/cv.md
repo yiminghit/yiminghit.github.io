@@ -32,7 +32,7 @@ redirect_from:
 
 **Awards**
 ======
-* DSI Postdoctoral Fellowship,  Columbia University. 2023
+* DSI Postdoctoral Fellowship,  Columbia University, 2023
 * Charles M. Close '62 Doctoral Prize, Rensselaer Polytechnic Institute, 2023
 * Founders Award of Excellence (top 1\%), Rensselaer Polytechnic Institute, 2022
 * Outstanding Master’s Thesis Award, Harbin Institute of Technology, 2018
