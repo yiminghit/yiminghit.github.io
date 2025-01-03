@@ -22,6 +22,25 @@ Fantasie Impromptu in C-sharp Minor Op.66 by Chopin
     <source src="/images/Chophin.mp4" type="video/mp4">
 </video>
 
+**Cat**
+------
+
+I have a four-year-old cat Alice. I began raising her when she was just a tiny, curious kitten of four months old. Over the years, Alice has grown into a loving and playful companion, bringing warmth and joy to my life. 
+
+Alice
+
+<video width="320" height="240" controls>
+    <source src="/images/Alice_video.mp4" type="video/mp4">
+</video>
+
+### Alice's Photos
+
+![Alice enjoying her day](/images/Alice1.jpg)
+
+![Alice being playful](/images/Alice2.jpg)
+
+
+
 <!-- 
 **Twitter Sentiment Analysis with Recurrent Neural Networks**
 ------
