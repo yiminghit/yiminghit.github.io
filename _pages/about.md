@@ -22,7 +22,7 @@ About Me
 
 I am a postdoctoral research scientist  at Columbia University, where I am focusing on energy storage, the power market, and the resilience of power systems. I am fortunate to work with Prof. Bolun Xu and Prof. Gil Zussman. Before that, I worked as a postdoc fellow at the University of Michigan, Ann Arbor, for three months with Prof. Parth Vaishnav, Prof. Michael Craig, Prof. Johanna Mathieu, and Prof. Carina Gronlund. I obtained my Ph.D. degree in 2022 from the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, where I am fortunate to be advised by Prof. Meng Wang. In Spring 2022, I interned at the Argonne National Laboratory, mentored by Dr. Dongbo Zhao and Dr. Tianqi Hong. I received a Master’s degree in Control Science and Engineering from Harbin Institute of Technology and a Bachelor’s degree in Automation from Harbin Engineering University in 2018 and 2016, respectively. My current research focuses on machine Learning, high-dimensional energy data analytics, renewable energy, and power system monitoring. 
 
-[CV](/files/Ming_Yi_CV_V2.pdf)
+[[CV]](/files/Ming_Yi_CV_V2.pdf) [[Research Statement]](/files/RS_Ming.pdf) 
 
 Highlights
 ======
