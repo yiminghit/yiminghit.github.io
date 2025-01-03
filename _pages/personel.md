@@ -30,14 +30,17 @@ I have a four-year-old cat Alice. I began raising her when she was just a tiny, 
 Alice
 
 <video width="320" height="240" controls>
-    <source src="/images/Alice_video.mp4" type="video/mp4">
+    <source src="/images/Alice_video.MP4" type="video/mp4">
 </video>
 
 ### Alice's Photos
 
 <img src="/images/Alice1.jpg" alt="Alice enjoying her day" width="300" height="200">
 
-<img src="/images/Alice2.JPG" alt="Alice being playful" width="300" height="200">
+<img src="/images/Alice3.jpg" alt="Alice being playful" width="300" height="200">
+
+<img src="/images/Alice4.JPG" alt="Alice being playful" width="300" height="200">
+<img src="/images/Alice5.JPG" alt="Alice being playful" width="300" height="200">
 
 
 
