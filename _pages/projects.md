@@ -6,7 +6,15 @@ author_profile: true
 ---
 **Overview**
 ------
-My current research is working on some of the basic questions in power systems:  1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data? 2. Can algorithm provide uncertainty measure to measure the reliability of the disaggregation results? 3. How to provide a confidence measure for synchrophasor data recovery and how to recover simultaneous and consecutive data corruptions? 4. How to recover the missing/bad data with nonlinear dynamics?
+My research agenda focuses on developing machine learning approaches that efficiently utilize the abundance of energy data, accurately interpret physical energy system behaviors, provide cost-efficient and resilient solutions for emerging energy system challenges, and support the analysis of the societal impacts from the energy transition and climate change. I aim to identify key energy system applications that can be enabled or improved by new machine learning techniques, formulate energy system problems that highlight critical technical challenges, design efficient algorithms grounded in rigorous mathematical principles, and validate these methods using real-world testbeds or datasets.
+
+Q1: How can we effectively extract information for decision-making, when facing large-scale, partially observable energy data?
+
+Q2: How can we build an autonomous energy system that learns from complex, structured data, while improving decision quality under uncertainty?
+
+<p align="center">
+  <img src="/images/overview_works_icon22.png" width="400" />
+</p>
 
 **Learning-Enabled Autonomous Energy Storage Systems**
 ------
