@@ -14,8 +14,12 @@ The central theme of my postdoctoral research is enhancing decision-making for e
 
 <p align="center">
   <img src="/images/self-Scheduling.png" width="300" />
-  <img src="/images/bidding.png" width="300" /> 
 </p>
+
+<p align="center">
+ <img src="/images/bidding.png" width="300" /> 
+</p>
+  
 
 **Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
