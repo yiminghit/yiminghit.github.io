@@ -8,9 +8,15 @@ author_profile: true
 ------
 My research agenda focuses on developing machine learning approaches that efficiently utilize the abundance of energy data, accurately interpret physical energy system behaviors, provide cost-efficient and resilient solutions for emerging energy system challenges, and support the analysis of the societal impacts from the energy transition and climate change. I aim to identify key energy system applications that can be enabled or improved by new machine learning techniques, formulate energy system problems that highlight critical technical challenges, design efficient algorithms grounded in rigorous mathematical principles, and validate these methods using real-world testbeds or datasets.
 
+In response to the rising need for intelligent solutions, harnessing the power of data is essential. The widespread deployment of smart meters in energy systems exemplifies this potential. However, current energy analytics tools face bottlenecks in high-fidelity data processing, particularly because energy data is often partially observable. For example, Behind-the-Meter (BTM) solar systems result in grid operators observing only aggregated measurements of load and solar generation. Synchrophasor data in power transmission systems suffers from missing/corrupted values, leaving system dynamics unobservable.  These challenges raise the following research questions in energy systems:
+
 Q1: How can we effectively extract information for decision-making, when facing large-scale, partially observable energy data?
 
+Meeting the critical demands of information extraction for energy systems often requires more than simply scaling up existing machine learning methods. It is essential to leverage the inherent structure of energy data to extract information effectively. Moreover, common challenges with large-scale energy data lie not only in the complexity of the processes that generate it but also in the downstream decision-making processes it aims to inform and optimize. For example, electricity price formation relies on power flow models that incorporate congestion and account for the uncertainty introduced by renewable generation variability. Strategic energy storage must consider future price uncertainty while modeling physical constraints. Understanding and modeling energy system decision processes under uncertainty is critical for accurately learning from observed behaviors. This highlights another research question in designing energy systems:
+
 Q2: How can we build an autonomous energy system that learns from complex, structured data, while improving decision quality under uncertainty?
+
+My overarching research seeks to address the above questions by developing intelligent, cost-efficient, and resilient solutions that bridge machine learning with the evolving needs of energy systems
 
 <p align="center">
   <img src="/images/overview_works_icon22.png" width="660" />
