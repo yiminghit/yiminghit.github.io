@@ -13,7 +13,7 @@ Q1: How can we effectively extract information for decision-making, when facing 
 Q2: How can we build an autonomous energy system that learns from complex, structured data, while improving decision quality under uncertainty?
 
 <p align="center">
-  <img src="/images/overview_works_icon22.png" width="600" />
+  <img src="/images/overview_works_icon22.png" width="660" />
 </p>
 
 **Learning-Enabled Autonomous Energy Storage Systems**
