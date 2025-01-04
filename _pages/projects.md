@@ -13,11 +13,11 @@ The central theme of my postdoctoral research is enhancing decision-making for e
  These systems integrate various modules—electricity price prediction, market participation, cybersecurity, and risk-averse operation—into a cohesive framework for optimal decision-making. My research spans these critical components to advance the capabilities of autonomous energy storage operations. Data center job scheduling follows a similar rationale, where limited  resources require efficient job allocation while accounting for uncertainties in future demand.
 
 <p align="center">
-  <img src="/images/self-Scheduling.png" width="300" />
+  <img src="/images/self-Scheduling.png" width="200" />
 </p>
 
 <p align="center">
- <img src="/images/bidding.png" width="300" /> 
+ <img src="/images/bidding.png" width="350" /> 
 </p>
   
 
