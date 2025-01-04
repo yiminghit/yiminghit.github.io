@@ -21,7 +21,7 @@ Energy storage systems typically employ Model Predictive Control (MPC) policy, w
 </p>
 
 <p align="center">
- <img src="/images/bidding.png" width="400" /> 
+ <img src="/images/bidding.png" width="450" /> 
 </p>
   
 
