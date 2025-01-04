@@ -8,7 +8,14 @@ author_profile: true
 ------
 My current research is working on some of the basic questions in power systems:  1. How can data-driven methods estimate the renewable energies such as solar generations without fully labeled historical data? 2. Can algorithm provide uncertainty measure to measure the reliability of the disaggregation results? 3. How to provide a confidence measure for synchrophasor data recovery and how to recover simultaneous and consecutive data corruptions? 4. How to recover the missing/bad data with nonlinear dynamics?
 
+**Learning-Enabled Autonomous Energy Storage Systems**
+The central theme of my postdoctoral research is enhancing decision-making for energy systems under uncertainty. Energy storage systems must \textit{strategically} plan their operations based on future price forecasts to quantify their opportunity value, considering their limited energy capacity.
+ These systems integrate various modules—electricity price prediction, market participation, cybersecurity, and risk-averse operation—into a cohesive framework for optimal decision-making. My research spans these critical components to advance the capabilities of autonomous energy storage operations. Data center job scheduling follows a similar rationale, where limited  resources require efficient job allocation while accounting for uncertainties in future demand.
 
+<p align="center">
+  <img src="/images/self-Scheduling.png" width="300" />
+  <img src="/images/bidding.png" width="300" /> 
+</p>
 
 **Energy Disaggregation at Substations with Behind-the-Meter Solar Generation**
 ------
