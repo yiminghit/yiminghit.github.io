@@ -37,6 +37,10 @@ Energy storage systems typically employ Model Predictive Control (MPC) policy, w
   <img src="/images/self-Scheduling.png" width="300" />
 </p>
 
+<p align="center">
+  <img src="/images/FlowChart-Full_Connect.png" width="300" />
+</p>
+
 **Decision-Focused Learning for Energy Storage Bidding.**
 
 I extended the decision-focused framework to tackle storage bidding, a more complex challenge where storage systems must place bids in advance rather than making real-time charge/discharge decisions. Along with degradation costs, the bidding model must account for opportunity costs that result from limited storage capacity. Given future price forecasting, the key idea for bidding design is to link the opportunity cost to the dual variable of the state of charge (SoC). Training an end-to-end bidding framework with a decision-focused loss is challenging due to the dual optimization layers for bid generation and market clearing. Leveraging the implicit function theorem, the decision loss is backpropagated through dual differentiable optimization layers to update the predictor's weights. This approach yields higher profits and generalizes well to price-maker scenarios, providing a versatile solution for real-world applications.
