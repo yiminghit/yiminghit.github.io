@@ -32,6 +32,9 @@ Please see my CV if you want to know more about me.
 
 Highlights
 ======
+* [Mar. 2025] Our paper entitled "Perturbed Decision-Focused Learning for Modeling Strategic Energy Storage
+" was accepted in **IEEE Transactions on Smart Grid**.
+* [Feb. 2025] Our paper entitled "Conformal Uncertainty Quantification of Electricity Price Predictions for Risk-Averse Storage Arbitrage" was accepted in **IEEE PES General Meeting 2025**.
 * [Sept. 2023] Our paper entitled "Energy Storage Arbitrage in Two-settlement Markets: A Transformer-Based Approach" was accepted in **Electric Power Systems Research**.
 * [July 2023] I am honored to receive the Columbia University Data Science Institute Postdoctoral Fellowship, which supports next-generation of leaders in data science and artificial intelligence.
 * [May 2023] Our paper entitled "Net Load Forecasting with Disaggregated Behind-the-Meter PV Generation" was accepted in **IEEE Transactions on Industry Applications**.
