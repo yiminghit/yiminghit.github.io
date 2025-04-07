@@ -28,7 +28,7 @@ I am broadly interested in (1) designing data-driven algorithms to enhance intel
 
 Please see my CV if you want to know more about me.
 
-**[[CV]](/files/Ming_Yi_CV2.pdf) [[Research Statement]](/files/RS_Ming.pdf) [[Teaching Statement]] (/files/Teaching_Ming.pdf)**
+**[[CV]](/files/Ming_Yi_CV2.pdf) [[Research Statement]](/files/RS_Ming.pdf) [[Research Statement]](/files/RS_Ming.pdf) [[Teaching Statement]](/files/Teaching_Ming.pdf)**
 
 Highlights
 ======
