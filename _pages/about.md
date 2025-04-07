@@ -45,7 +45,7 @@ Highlights
 * [Feb. 2022]  Our paper entitled "Bayesian Robust Hankel Matrix Completion with Uncertainty Modeling for Synchrophasor Data Recovery" was accepted in **ACM SIGENERGY Energy Informatics Review**.
 * [Jun. 2021] Our paper entitled "Bayesian Energy Disaggregation at Substations with Uncertainty Modeling" was accepted in **IEEE Transactions on Power Systems**.
 * [Nov. 2020] Our paper entitled "Real-time Energy Disaggregation at Substations with Behind-the-Meter Solar Generation" was accepted in **IEEE Transactions on Power Systems**.
-* **[[Syllabus Data Science in Power System]] (/files/Syllabus_Ming.docx)**
+* **[[Syllabus Data Science in Power System]](/files/Syllabus_Ming.docx)**
 
 Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-3YDb9ZxaACc7bd54-3.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=3YDb9ZxaACc7bd54'></script><sup>th</sup> vistor here.
 
