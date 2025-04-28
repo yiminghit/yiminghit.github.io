@@ -47,6 +47,6 @@ Highlights
 * [Nov. 2020] Our paper entitled "Real-time Energy Disaggregation at Substations with Behind-the-Meter Solar Generation" was accepted in **IEEE Transactions on Power Systems**.
 * **[[Syllabus Data Science in Power System]](/files/Syllabus_Ming.pdf)**
 
-Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-3YDb9ZxaACc7bd54-3.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=3YDb9ZxaACc7bd54'></script><sup>th</sup> vistor here.
+
 
 
