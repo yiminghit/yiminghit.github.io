@@ -38,6 +38,9 @@ Please see my CV if you want to know more about me.
 
 Highlights
 ======
+
+* **[June 2025]** Our work was reported by Columbia News: [Power Shift: Building Resilient Energy Systems with AI](https://datascience.columbia.edu/news/2025/power-shift-building-resilient-energy-systems-with-ai/?utm_source=MarketingCloud&utm_medium=email&utm_campaign=20250627_Highlights_Facuty_Staff)
+
 * [Mar. 2025] Our paper entitled "Perturbed Decision-Focused Learning for Modeling Strategic Energy Storage
 " was accepted in **IEEE Transactions on Smart Grid**.
 * [Feb. 2025] Our paper entitled "Conformal Uncertainty Quantification of Electricity Price Predictions for Risk-Averse Storage Arbitrage" was accepted in **IEEE PES General Meeting 2025**.
