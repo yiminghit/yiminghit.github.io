@@ -56,10 +56,13 @@ at Substations with Behind-the-Meter Solar Generation," IEEE Transactions on Pow
 
 **Conference Publications**
 ------
-[C1] **Ming Yi** and Meng Wang, "Recent Results of Energy Disaggregation with Behind-the-Meter Solar Generation,"
+[C1] Saud Alghumayjan, **Ming Yi**, and Bolun Xu, "Risk-Averse Uncertainty Quantification
+in Electricity Price Forecasting with Conformal Prediction," IEEE PES General Meeting, 2025.
+
+[C2] **Ming Yi** and Meng Wang, "Recent Results of Energy Disaggregation with Behind-the-Meter Solar Generation,"
 Proc. of the 11th Bulk Power Systems Dynamic and Control Symposium, 2022.
 
-[C2] **Ming Yi** , Zhenhua Yang, Fengyu Guo and Jialin Liu, "A clustering-based algorithm for automatic detection
+[C3] **Ming Yi** , Zhenhua Yang, Fengyu Guo and Jialin Liu, "A clustering-based algorithm for automatic detection
 of automobile dashboard," Proc. of the 43rd Annual Conference of the IEEE Industrial Electronics Society
 (IECON) 2017.
 
