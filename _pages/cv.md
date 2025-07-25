@@ -56,6 +56,7 @@ Teaching Assistant at RPI:
      * IEEE Transactions on Energy Markets, Policy and Regulation,
      * IEEE Transactions on Power Delivery
      * IEEE Transactions on Industrial Informatics,
+     * IEEE Transactions on Power Electronics,
      * IEEE Transactions on Vehicular Technology,
      * IEEE Power Engineering Letters,
      * Journal of Modern Power Systems and Clean Energy
